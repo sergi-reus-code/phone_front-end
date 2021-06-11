@@ -15,9 +15,7 @@ const CreateUserScreen = () => {
     
     
     
-    
-    
-    return (
+return (
      <ScrollView style={styles.container}>
 
 
